@@ -1,0 +1,11 @@
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\bin\Debug\net10.0\TestDB.ViewModels.deps.json
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\bin\Debug\net10.0\TestDB.ViewModels.dll
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\bin\Debug\net10.0\TestDB.ViewModels.pdb
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.dll
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\refint\TestDB.ViewModels.dll
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\TestDB.ViewModels.pdb
+C:\Users\aleja\OneDrive\Escritorio\TestDB\TestDBApi\TestDB.ViewModels\obj\Debug\net10.0\ref\TestDB.ViewModels.dll

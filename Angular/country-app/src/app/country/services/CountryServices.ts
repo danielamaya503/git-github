@@ -18,13 +18,38 @@ export class CountryServices {
     return this.httpService
       .get<RestCountry[]>(`${environment.apiUrlCountries}/capital/${query}`)
       //metodo que nos devuelve el array usando rxjs
-      .pipe(
+      .pipe
+      (
         map( rest => CountryMapper.mapRestCountryArrayToCountryArray(rest)),
         catchError( error => {
           console.log('Error Catch ',error);
-          return throwError( () => new Error(`No se pudo encontrar pais con el nombre: ${query}`));
+
+          return throwError(
+            () => new Error(`No se pudo encontrar la capital: ${query}`)
+          );
         })
       )
 
+  }
+  //const url = `${environment.apiUrlCountries}/name/${query}`
+
+  searchByCountry(query: string) : Observable<Country[]>
+  {
+    query = query.toLowerCase();
+
+    return this.httpService
+      .get<RestCountry[]>(`${environment.apiUrlCountries}/name/${query}`)
+       .pipe
+       (
+         map(rest => CountryMapper.mapRestCountryArrayToCountryArray(rest)),
+         catchError(error =>
+         {
+           console.log('Error Catch', error);
+           return throwError(
+             () => new Error(`No se pudo encontrar el pais: ${query}`)
+           );
+         })
+
+       )
   }
 }

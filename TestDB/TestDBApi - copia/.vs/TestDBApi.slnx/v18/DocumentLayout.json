@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|solutionrelative:testdbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8AC7AB-9558-3059-345D-1D92782C684A}|TestDB.CONCRETES\\TestDB.CONCRETES.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdb.concretes\\personaempresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8AC7AB-9558-3059-345D-1D92782C684A}|TestDB.CONCRETES\\TestDB.CONCRETES.csproj|solutionrelative:testdb.concretes\\personaempresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3F4E8-7D8A-EB02-15D2-5FC7FCEECF49}|TestDB.models\\TestDB.models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdb.models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3F4E8-7D8A-EB02-15D2-5FC7FCEECF49}|TestDB.models\\TestDB.models.csproj|solutionrelative:testdb.models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B8BFB-5F77-EA9D-2915-143190655A4A}|TestDB.interfaces\\TestDB.interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdb.interfaces\\ipersonaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B8BFB-5F77-EA9D-2915-143190655A4A}|TestDB.interfaces\\TestDB.interfaces.csproj|solutionrelative:testdb.interfaces\\ipersonaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdbapi\\controllers\\personaempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|solutionrelative:testdbapi\\controllers\\personaempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdbapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|solutionrelative:testdbapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|c:\\users\\aleja\\onedrive\\escritorio\\testdb\\testdbapi - copia\\testdbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7344AB44-BFA1-0F7C-B7B0-24D81564D6D6}|TestDBApi\\TestDBApi.csproj|solutionrelative:testdbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestDBApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestDBApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-28T00:58:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "TestDBApi\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "TestDBApi\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T02:22:33.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaEmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Controllers\\PersonaEmpresaController.cs",
+              "RelativeDocumentMoniker": "TestDBApi\\Controllers\\PersonaEmpresaController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Controllers\\PersonaEmpresaController.cs",
+              "RelativeToolTip": "TestDBApi\\Controllers\\PersonaEmpresaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T02:34:34.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaEmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.CONCRETES\\PersonaEmpresaService.cs",
+              "RelativeDocumentMoniker": "TestDB.CONCRETES\\PersonaEmpresaService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.CONCRETES\\PersonaEmpresaService.cs",
+              "RelativeToolTip": "TestDB.CONCRETES\\PersonaEmpresaService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T02:11:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.models\\Persona.cs",
+              "RelativeDocumentMoniker": "TestDB.models\\Persona.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.models\\Persona.cs",
+              "RelativeToolTip": "TestDB.models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T04:52:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonaEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.interfaces\\IPersonaEmpresa.cs",
+              "RelativeDocumentMoniker": "TestDB.interfaces\\IPersonaEmpresa.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDB.interfaces\\IPersonaEmpresa.cs",
+              "RelativeToolTip": "TestDB.interfaces\\IPersonaEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T02:18:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestDBApi\\Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\TestDB\\TestDBApi - copia\\TestDBApi\\Program.cs",
+              "RelativeToolTip": "TestDBApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T02:15:36.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

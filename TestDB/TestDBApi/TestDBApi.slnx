@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TestDB.CONCRETES/TestDB.CONCRETES.csproj" />
+  <Project Path="TestDB.interfaces/TestDB.interfaces.csproj" />
+  <Project Path="TestDB.models/TestDB.models.csproj" />
+  <Project Path="TestDB.ViewModels/TestDB.ViewModels.csproj" />
+  <Project Path="TestDBApi/TestDBApi.csproj" />
+</Solution>
